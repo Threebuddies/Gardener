@@ -1,0 +1,8 @@
+arduino has 13 digital pins
+arduino has 6 analog pins
+
+7 digital pins for lcd
+4 digital pins for ethernet
+6 analog pins for sensors
+
+11 pins used
